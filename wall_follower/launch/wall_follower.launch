@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="wall_follower" type="wall_follower" name="wall_follower"  output="screen"/>
+</launch>
